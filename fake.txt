@@ -1,4 +1,8 @@
 This is my text file.
 Second line.
 Woo
+<<<<<<< HEAD
 Here's another line local
+=======
+Remote line
+>>>>>>> 7810fa54b2c4cf35c3cc12fbe96cb8c456de2380
